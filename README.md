@@ -35,7 +35,7 @@ En Este curso presentamos el potencial que tiene el uso de Google Earth Engine p
   - API’s: Programación funcional
   - Cuáles son las ventajas y desventajas de usar el API de Python frente al de JavaScript.
   - Colab (jupyter notebbok) como interfaz para usar Python.
-  - [Primeros pasos en colab y comandos básicos en Linux](https://github.com/csaybar/EarthEngineMasterGIS/blob/master/module01/01_introcolab.ipynb).
+  - [Primeros pasos en colab y comandos básicos en Linux](https://colab.research.google.com/github/csaybar/EarthEngineMasterGIS/blob/master/module01/01_introcolab.ipynb).
 
   
 
