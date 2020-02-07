@@ -37,6 +37,15 @@ En Este curso presentamos el potencial que tiene el uso de Google Earth Engine p
   - Colab (jupyter notebbok) como interfaz para usar Python.
   - [Primeros pasos en colab y comandos básicos en Linux](https://colab.research.google.com/github/csaybar/EarthEngineMasterGIS/blob/master/module01/01_introcolab.ipynb).
 
+- **Módulo 2:** Sintaxis de mínima de Python para GEE
+  - [Tipos de datos en Python](https://colab.research.google.com/github/csaybar/EarthEngineMasterGIS/blob/master/module02/01_tipodedatos.ipynb).
+  - [Estructuras de datos](https://colab.research.google.com/github/csaybar/EarthEngineMasterGIS/blob/master/module02/02_estructuradedatos.ipynb).
+  - [Operadores de comparación](https://colab.research.google.com/github/csaybar/EarthEngineMasterGIS/blob/master/module02/03_Operadoresdecomparación.ipynb).
+  - [Declaraciones if, else y elif](https://colab.research.google.com/github/csaybar/EarthEngineMasterGIS/blob/master/module02/04_if_else_elif.ipynb)
+  - [Ciclos for](https://colab.research.google.com/github/csaybar/EarthEngineMasterGIS/blob/master/module02/05_Ciclosfor.ipynb).
+  - [Funciones](https://colab.research.google.com/github/csaybar/EarthEngineMasterGIS/blob/master/module02/06_Funciones.ipynb).
+  - [Expresiones lambda y funciones map y filter](https://colab.research.google.com/github/csaybar/EarthEngineMasterGIS/blob/master/module02/07_Lambda.ipynb).
+  - [modulos y paquetes en Python](https://colab.research.google.com/github/csaybar/EarthEngineMasterGIS/blob/master/module02/08_Modulos_y_Paquetes.ipynb).
   
 
 ### **Changelog**
