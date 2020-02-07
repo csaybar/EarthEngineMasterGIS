@@ -5,13 +5,13 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![lifecycle](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://www.tidyverse.org/lifecycle/#stable)
 
-### **Introducción**
+### :earth_americas: **Introducción** 
 
 La manipulación de ciento de Gigabytes (incluso Terabytes) de datos espaciales, ha sido una actividad muy limitada debido al alto costo de adquisición de la infraestructura computacional adecuada y a la falta de personal calificado en ingeniería de datos. Google Earth Engine (GEE) ha solucionado este problema ofreciendo una plataforma completamente gratuita, fácil de usar y con la capacidad de procesar cientos de Gigabytes datos (raster y vector) en cuestión de minutos.
 
 En Este curso presentamos el potencial que tiene el uso de Google Earth Engine para reemplazar los flujos de trabajos tradicionales en procesamiento digital de imágenes. Todos los tópicos y ejemplos tocados serán abordados con problemas reales ligados al quehacer diario de un profesional en teledetección y SIG. Para poder llevar este curso satisfactoriamente es necesario conocimientos de programación en Python y teledetección básica.
 
-### **¿Qué vas a lograr en este curso?**
+### :sparkles: **¿Qué vas a lograr en este curso?**
 
 1) Mostrar las ventajas y desventajas entre flujos de trabajo tradicionales (ej: ENVI + ARCGIS) frente a Google Earth Engine (Lazy evaluation).
 
@@ -23,7 +23,7 @@ En Este curso presentamos el potencial que tiene el uso de Google Earth Engine p
 
 5) Poder descargar, manipular y procesar cientos de imágenes satelitales (Sentinel, Landsat, Modis, etc.) de cualquier parte del mundo en cuestión de minutos.
 
-### **Silabus**
+### :point_up: **Silabus**
 
 - **Modulo 01:** Entendiendo GEE
   - Bienvenidos
@@ -75,15 +75,37 @@ En Este curso presentamos el potencial que tiene el uso de Google Earth Engine p
   - [Ejercicio:  Predicción de la erosión hídrica a nivel mundial](https://colab.research.google.com/github/csaybar/EarthEngineMasterGIS/blob/master/module06/04_RUSLE.ipynb).
   - [Ejercicio Propuesto:  Estimación de la Precipitación máxima en 24 horas y evapotranspiración para todos las distritos de Loreto - Perú](https://colab.research.google.com/github/csaybar/EarthEngineMasterGIS/blob/master/module06/prop01_PP_ETP.ipynb).
 
+### :construction_worker: :computer: **Ejercicios Propuestos**
 
-### Instructor
+A fin de poder recibir un certificado de finalización del curso usted debe ser capaz de resolver los siguientes problemas propuestos.
+
+- [Ejercicio N°01](https://github.com/csaybar/EarthEngineMasterGIS/blob/master/tarea/ejercicio_01.pdf): Estimar la Erosión multianual para cualquier parte del mundo.
+
+- [Ejercicio N°02](https://github.com/csaybar/EarthEngineMasterGIS/blob/master/tarea/ejercicio_02.pdf):  Estimar la precipitación y evapotranspiración areal climática mensual para todos los distritos del departamento de Amazonas, Perú* (Opcional).
+
+### :gift: **Snippets**
+
+Puedes acceder a todos los snippets desarrollados en el curso dando clic [aquí]()
+
+### :pencil2: :notebook: **Donde seguir aprendiendo**  
+
+Si haz llegado hasta aquí dejame **felicitarte**, empezar siempre es lo más díficil y tu ya lo haz logrado! :tada: :tada:. Sin embargo, aún hay mucho por aprender, recuerda que actualmente la API tiene mas de **1000** clases, métodos y funciones (y aun sigue aumentado ...).  En esta sección te adjunto alguno de los materiales más importantes que encontrarás en Internet sobre la Earth Engine Python API.
+
+- [**earthengine-py-notebooks**](https://github.com/giswqs/earthengine-py-notebooks): Una colección de más de 300 Jupyter notebooks para usar Google Earth Engine.
+- [**EEwPython**](https://github.com/csaybar/EEwPython): Una serie de Jupyter notebooks para aprender Google Earth Engine con Python
+- [**qgis-earthengine-examples**](https://github.com/giswqs/qgis-earthengine-examples): Una colección de más de 290+ Python scripts para usar Google Earth Engine.
+- [**earthengine-community**](https://github.com/google/earthengine-community): Repositorio oficial de la comunidad de Google Earth Engine.
+- [**gee-community**](https://github.com/gee-community): Esta organización contiene contenido aportado por la comunidad de desarrolladores de Earth Engine. Este no es un producto de Google oficialmente compatible.
+
+
+
+### :man: **Instructor** 
 
 **Cesar Luis Aybar Camacho**
 
 Ingeniero geógrafo con experiencia en análisis geo estadístico, modelamiento hidrológico, sistema de información geográfica y teledetección. Dominio de los lenguajes de programación C++, R y Python, además de conceptos ligados a la hidrología satelital, machine learning y web scraping. 
 
-
-### **Changelog**
+### :octocat: **Changelog**
 
 ```
 Version 0.0.1
