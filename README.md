@@ -9,7 +9,7 @@
 
 La manipulación de ciento de Gigabytes (incluso Terabytes) de datos espaciales, ha sido una actividad muy limitada debido al alto costo de adquisición de la infraestructura computacional adecuada y a la falta de personal calificado en ingeniería de datos. Google Earth Engine (GEE) ha solucionado este problema ofreciendo una plataforma completamente gratuita, fácil de usar y con la capacidad de procesar cientos de Gigabytes datos (raster y vector) en cuestión de minutos.
 
-En Este curso presentamos el potencial que tiene el uso de Google Earth Engine para reemplazar los flujos de trabajos tradicionales en procesamiento digital de imágenes. Todos los tópicos y ejemplos tocados serán abordados con problemas reales ligados al quehacer diario de un profesional en teledetección y SIG. Para poder llevar este curso satisfactoriamente es necesario conocimientos de programación en Python y teledetección básica.
+En este curso presentamos el potencial que tiene el uso de Google Earth Engine para reemplazar los flujos de trabajos tradicionales en procesamiento digital de imágenes. Todos los tópicos y ejemplos tocados serán abordados con problemas reales ligados al quehacer diario de un profesional en teledetección y SIG. Para poder llevar este curso satisfactoriamente es necesario conocimientos de programación en Python y teledetección básica.
 
 ### :sparkles: **¿Qué vas a lograr en este curso?**
 
@@ -25,7 +25,7 @@ En Este curso presentamos el potencial que tiene el uso de Google Earth Engine p
 
 ### :point_up: **Silabus**
 
-- **Modulo 01:** Entendiendo GEE
+- **Módulo 01:** Entendiendo GEE
   - Bienvenidos
   - ¿Qué es Google Earth Engine?
   - Catálogo de datos de GEE
@@ -36,7 +36,7 @@ En Este curso presentamos el potencial que tiene el uso de Google Earth Engine p
   - [Primeros pasos en colab y comandos básicos en Linux](https://colab.research.google.com/github/csaybar/EarthEngineMasterGIS/blob/master/module01/01_introcolab.ipynb).
 
 
-- **Modulo 2:** Sintaxis de mínima de Python para GEE
+- **Módulo 2:** Sintaxis de mínima de Python para GEE
   - [Tipos de datos en Python](https://colab.research.google.com/github/csaybar/EarthEngineMasterGIS/blob/master/module02/01_tipodedatos.ipynb).
   - [Estructuras de datos](https://colab.research.google.com/github/csaybar/EarthEngineMasterGIS/blob/master/module02/02_estructuradedatos.ipynb).
   - [Operadores de comparación](https://colab.research.google.com/github/csaybar/EarthEngineMasterGIS/blob/master/module02/03_Operadoresdecomparación.ipynb).
@@ -47,12 +47,12 @@ En Este curso presentamos el potencial que tiene el uso de Google Earth Engine p
   - [modulos y paquetes en Python](https://colab.research.google.com/github/csaybar/EarthEngineMasterGIS/blob/master/module02/08_Modulos_y_Paquetes.ipynb).
   
   
-- **Modulo 3:** Datos Espaciales en Python
+- **Módulo 3:** Datos Espaciales en Python
   - [WKT y GeoJSON e introducción a geopandas](https://colab.research.google.com/github/csaybar/EarthEngineMasterGIS/blob/master/module03/01_wkt_geojson.ipynb).
   - Subida de datos raster y vector a GEE
 
 
-- **Modulo 4:** Sintaxis en GEE 
+- **Módulo 4:** Sintaxis en GEE 
   - [Como inicializar la Earth Engine Python API](https://colab.research.google.com/github/csaybar/EarthEngineMasterGIS/blob/master/module04/01_EDGEE.ipynb).
   - [ED básicas en Google Earth Engine](https://colab.research.google.com/github/csaybar/EarthEngineMasterGIS/blob/master/module04/01_EDGEE.ipynb).
   - [ED espaciales en Google Earth Engine I (ee.Image): cálculo de índices: NDVI, NDWI.](https://colab.research.google.com/github/csaybar/EarthEngineMasterGIS/blob/master/module04/02_EDGEE.ipynb) 
@@ -60,7 +60,7 @@ En Este curso presentamos el potencial que tiene el uso de Google Earth Engine p
   - [ED espaciales en Google Earth Engine III (ee.Feature y ee.FeatureCollection).](https://colab.research.google.com/github/csaybar/EarthEngineMasterGIS/blob/master/module04/04_EDGEE.ipynb)
 
 
-- **Modulo 5:** GEE en acción I
+- **Módulo 5:** GEE en acción I
   - [Manipulación de ee.Image y ee.ImageCollection y exploración de metadatos](https://colab.research.google.com/github/csaybar/EarthEngineMasterGIS/blob/master/module05/01_metadatos_I.ipynb).
   - [Manipulación de ee.Feature y ee.FeatureCollection y exploración de metadatos](https://colab.research.google.com/github/csaybar/EarthEngineMasterGIS/blob/master/module05/02_metadatos_II.ipynb).
   - [Reducciones espacio temporales en ee.Image y ee.ImageCollection.](https://colab.research.google.com/github/csaybar/EarthEngineMasterGIS/blob/master/module05/03_reducer.ipynb)
@@ -68,7 +68,7 @@ En Este curso presentamos el potencial que tiene el uso de Google Earth Engine p
   - [Ejercicio 02:  Descarga automática de imágenes Sentinel-2 en cualquier parte del mundo de forma 100% automatica.](https://colab.research.google.com/github/csaybar/EarthEngineMasterGIS/blob/master/module05/05_Ejercicio_02.ipynb)
 
 
-- **Modulo 6:** GEE en acción II
+- **Módulo 6:** GEE en acción II
   - [Composición y mosaico](https://colab.research.google.com/github/csaybar/EarthEngineMasterGIS/blob/master/module06/01_composites.ipynb).
   - [Técnicas de visualización en ee.Image.Collection](https://colab.research.google.com/github/csaybar/EarthEngineMasterGIS/blob/master/module06/02_ICviz.ipynb)
   - [Clasificacion supervisada y no supervisada.](https://colab.research.google.com/github/csaybar/EarthEngineMasterGIS/blob/master/module06/03_class.ipynb)
@@ -89,7 +89,7 @@ Puedes acceder a todos los snippets desarrollados en el curso dando clic [aquí]
 
 ### :pencil2: **Donde seguir aprendiendo**  
 
-Si haz llegado hasta aquí dejame **felicitarte**, empezar siempre es lo más díficil y tu ya lo haz logrado! :tada: :tada:. Sin embargo, aún hay mucho por aprender, recuerda que actualmente la API tiene mas de **1000** clases, métodos y funciones (y aun sigue aumentado ...).  En esta sección te adjunto alguno de los materiales más importantes que encontrarás en Internet sobre la Earth Engine Python API.
+Si has llegado hasta aquí déjame **felicitarte**, empezar siempre es lo más difícil y tu ya lo haz logrado! :tada: :tada:. Sin embargo, aún hay mucho por aprender, recuerda que actualmente la API te ofrece más de **1000** formas diferentes de interactuar (entre  clases, métodos y funciones) con los servidores de Google Earth Engine, además considera que este número sigue aumentando!.  En esta sección te adjunto alguno de los materiales más importantes que encontrarás en Internet sobre la Earth Engine Python API y donde seguir mejorando tus habilidades con **Python**.
 
 **Material Online en Github**
 
@@ -99,7 +99,7 @@ Si haz llegado hasta aquí dejame **felicitarte**, empezar siempre es lo más d�
 - [**earthengine-community**](https://github.com/google/earthengine-community): Repositorio oficial de la comunidad de Google Earth Engine.
 - [**gee-community**](https://github.com/gee-community): Esta organización contiene contenido aportado por la comunidad de desarrolladores de Earth Engine. Este no es un producto de Google oficialmente compatible.
 
-**Libros & material online**
+**Libros y material online**
 
 - [**Python Data Science Handbook**](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb): Mejora tu nivel de Python en análisis de datos, aprende como implementar un flujo de trabajo usando Machine Learning.
 
@@ -118,6 +118,8 @@ Ingeniero geógrafo con experiencia en análisis geo estadístico, modelamiento 
 ```
 Version 0.0.1
  - Acentos y caracteres extraños eliminados.
- - 6 modulos y 2 ejercicios propuestos.
- - Libros y informacion extra.
+ - 6 módulos y 2 ejercicios propuestos.
+ - Libros y información extra.
 ```
+
+
