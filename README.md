@@ -75,7 +75,7 @@ En Este curso presentamos el potencial que tiene el uso de Google Earth Engine p
   - [Ejercicio:  Predicción de la erosión hídrica a nivel mundial](https://colab.research.google.com/github/csaybar/EarthEngineMasterGIS/blob/master/module06/04_RUSLE.ipynb).
   - [Ejercicio Propuesto:  Estimación de la Precipitación máxima en 24 horas y evapotranspiración para todos las distritos de Loreto - Perú](https://colab.research.google.com/github/csaybar/EarthEngineMasterGIS/blob/master/module06/prop01_PP_ETP.ipynb).
 
-### :construction_worker: :computer: **Ejercicios Propuestos**
+### :computer: **Ejercicios Propuestos**
 
 A fin de poder recibir un certificado de finalización del curso usted debe ser capaz de resolver los siguientes problemas propuestos.
 
@@ -87,9 +87,11 @@ A fin de poder recibir un certificado de finalización del curso usted debe ser 
 
 Puedes acceder a todos los snippets desarrollados en el curso dando clic [aquí]()
 
-### :pencil2: :notebook: **Donde seguir aprendiendo**  
+### :pencil2: **Donde seguir aprendiendo**  
 
 Si haz llegado hasta aquí dejame **felicitarte**, empezar siempre es lo más díficil y tu ya lo haz logrado! :tada: :tada:. Sin embargo, aún hay mucho por aprender, recuerda que actualmente la API tiene mas de **1000** clases, métodos y funciones (y aun sigue aumentado ...).  En esta sección te adjunto alguno de los materiales más importantes que encontrarás en Internet sobre la Earth Engine Python API.
+
+**Material Online en Github**
 
 - [**earthengine-py-notebooks**](https://github.com/giswqs/earthengine-py-notebooks): Una colección de más de 300 Jupyter notebooks para usar Google Earth Engine.
 - [**EEwPython**](https://github.com/csaybar/EEwPython): Una serie de Jupyter notebooks para aprender Google Earth Engine con Python
@@ -97,7 +99,13 @@ Si haz llegado hasta aquí dejame **felicitarte**, empezar siempre es lo más d�
 - [**earthengine-community**](https://github.com/google/earthengine-community): Repositorio oficial de la comunidad de Google Earth Engine.
 - [**gee-community**](https://github.com/gee-community): Esta organización contiene contenido aportado por la comunidad de desarrolladores de Earth Engine. Este no es un producto de Google oficialmente compatible.
 
+**Libros & material online**
 
+- [**Python Data Science Handbook**](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb): Mejora tu nivel de Python en análisis de datos, aprende como implementar un flujo de trabajo usando Machine Learning.
+
+- [**Fluent Python**](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008) Excelente libro para perfeccionar tus habilidades en Python sobretodo si ya tienes experiencia en Python u otro lenguaje de programación.
+
+- [**Complete Python Bootcamp: Go from zero to hero in Python 3**](https://www.udemy.com/course/complete-python-bootcamp/): Curso con videos mas completo que encontrarás en Internet, lo mejor de todo solo cuesta 10 dólares!.
 
 ### :man: **Instructor** 
 
