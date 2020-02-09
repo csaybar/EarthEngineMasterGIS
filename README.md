@@ -85,7 +85,7 @@ A fin de poder recibir un certificado de finalización del curso usted debe ser 
 
 ### :gift: **Snippets**
 
-Puedes acceder a todos los snippets desarrollados en el curso dando clic [aquí]()
+Puedes acceder a todos los snippets desarrollados en el curso dando clic [aquí](https://colab.research.google.com/drive/1n0CWwURmOmw93GDkiwcT5HWtwv5pbtjl)
 
 ### :pencil2: **Donde seguir aprendiendo**  
 
@@ -116,10 +116,14 @@ Ingeniero geógrafo con experiencia en análisis geo estadístico, modelamiento 
 ### :octocat: **Changelog**
 
 ```
-Version 0.0.1
+Version 0.1.0
  - Acentos y caracteres extraños eliminados.
  - 6 módulos y 2 ejercicios propuestos.
  - Libros y información extra.
+
+Version 0.1.1
+ - Licencia MIT agregada
 ```
+
 
 
