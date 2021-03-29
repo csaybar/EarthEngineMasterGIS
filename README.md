@@ -81,7 +81,7 @@ En este curso presentamos el potencial que tiene el uso de Google Earth Engine p
 
 A fin de poder recibir un certificado de finalización del curso usted debe ser capaz de resolver los siguientes problemas propuestos.
 
-- [Ejercicio N°01](https://github.com/csaybar/EarthEngineMasterGIS/blob/master/tarea/ejercicio_02.pdf):  Estimar la Erosión multianual para cualquier parte del mundo
+- [Ejercicio N°01](https://colab.research.google.com/github/csaybar/EarthEngineMasterGIS/blob/master/module06/04_RUSLE.ipynb):  Estimar la Erosión multianual para cualquier parte del mundo
 
 - [Ejercicio N°02](https://colab.research.google.com/github/csaybar/EarthEngineMasterGIS/blob/master/tarea/Indices.ipynb): Elaborar un Mapa de Índice espectral puede ser NDVI, NDSI, NDWI, etc.) 
 ### :gift: **Snippets**
