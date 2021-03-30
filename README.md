@@ -72,7 +72,7 @@ En este curso presentamos el potencial que tiene el uso de Google Earth Engine p
   - [Composición y mosaico](https://colab.research.google.com/github/csaybar/EarthEngineMasterGIS/blob/master/module06/01_composites.ipynb).
   - [Técnicas de visualización en ee.Image.Collection](https://colab.research.google.com/github/csaybar/EarthEngineMasterGIS/blob/master/module06/02_ICviz.ipynb)
   - [Clasificacion supervisada y no supervisada.](https://colab.research.google.com/github/csaybar/EarthEngineMasterGIS/blob/master/module06/03_class.ipynb)
-  - [Ejercicio:  Predicción de la erosión hídrica a nivel mundial](https://colab.research.google.com/github/csaybar/EarthEngineMasterGIS/blob/master/module06/04_RUSLE.ipynb).
+  - [Ejercicio: Predicción de la erosión hídrica a nivel mundial](https://colab.research.google.com/github/csaybar/EarthEngineMasterGIS/blob/master/module06/04_RUSLE.ipynb).
   - [Ejercicio Propuesto:  Estimación de la Precipitación máxima en 24 horas y evapotranspiración para todos las distritos de Loreto - Perú](https://colab.research.google.com/github/csaybar/EarthEngineMasterGIS/blob/master/module06/prop01_PP_ETP.ipynb).
 - **Extras:** Material adicional en español fuera del curso!
   - [Joins en Google Earth Engine](https://colab.research.google.com/github/csaybar/EarthEngineMasterGIS/blob/master/EXTRA/extra_joins.ipynb).
